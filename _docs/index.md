@@ -1,50 +1,31 @@
 ---
-title: Welcome
+title: Anleitung
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+### Wie man Informationen in diese Seite einfügt
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
 
-1. Just download the source from [github.com/aksakalli/jekyll-doc-theme](https://github.com/aksakalli/jekyll-doc-theme/master) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+Die einzelnen Texte werden unter "Docs" abgespeichert. Die folgende Anleitung zeigt wie du eine Markdown Datei mit deinen Inhalten erstellst.
 
-## Writing content
-
-### Docs
-
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
-
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+**1.** Erstelle mit einem Editor deiner Wahl eine Markdown Datei (als .md abspeichern) `/mein-Lernfeld.md`. Die Datei sollte dabei folgenden Anfang haben:
 
 ```
 ---
-title: My Page
-permalink: /docs/my-page/
+title: Mein Titel
+permalink: /docs/mein-Lernfeld/
 ---
 
 Hello World!
 ```
 
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
+#### **2.** Schicke deine Datei / deinen Link an: mstraeter@gmail.com
 
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
 
-### Blog posts
 
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
+## Wie schreibt man Markdown?
 
-### Pages
+##### [Englische Anleitung](https://kompendium.jawoll.media/docs/cheatsheet)
 
-The home page is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap componenets](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/topnav.html`.
+##### [Deutsche Anleitung](https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf)

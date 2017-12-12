@@ -4,24 +4,112 @@
     
     
     {
-      "title": "Welcome",
-      "url": "/jekyll-doc-theme/docs/home/"
+      "title": "Anleitung",
+      "url": "/docs/home/"
 
     },
   
     
     
     {
-      "title": "Themes",
-      "url": "/jekyll-doc-theme/docs/themes/"
+      "title": "LF1",
+      "url": "/docs/lf1/"
 
     },
   
     
     
     {
-      "title": "Customization",
-      "url": "/jekyll-doc-theme/docs/customization/"
+      "title": "LF2",
+      "url": "/docs/lf2/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF3",
+      "url": "/docs/lf3/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF4",
+      "url": "/docs/lf4/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF5",
+      "url": "/docs/lf5/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF6",
+      "url": "/docs/lf6/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF7",
+      "url": "/docs/lf7/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF8",
+      "url": "/docs/lf8/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF9",
+      "url": "/docs/lf9/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF10",
+      "url": "/docs/lf10/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF11",
+      "url": "/docs/lf11/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF12",
+      "url": "/docs/lf12/"
+
+    },
+  
+    
+    
+    {
+      "title": "LF13",
+      "url": "/docs/lf13/"
 
     },
   
@@ -31,7 +119,7 @@
     
     {
       "title": "Markdown Cheatsheet",
-      "url": "/jekyll-doc-theme/docs/cheatsheet/"
+      "url": "/docs/cheatsheet/"
 
     },
   
@@ -39,7 +127,7 @@
     
     {
       "title": "Font Awesome Icon List",
-      "url": "/jekyll-doc-theme/docs/font-awesome/"
+      "url": "/docs/font-awesome/"
 
     },
   
@@ -47,7 +135,7 @@
     
     {
       "title": "Bootstrap Features",
-      "url": "/jekyll-doc-theme/docs/bootstrap/"
+      "url": "/docs/bootstrap/"
 
     },
   
@@ -56,12 +144,12 @@
   
   {
   "title": "Jekyll Doc Theme is published!",
-  "url": "/jekyll-doc-theme/blog/2017/05/03/jekyll-doc-theme/"
+  "url": "/blog/2017/05/03/jekyll-doc-theme/"
   },
   
   {
   "title": "Welcome to Jekyll!",
-  "url": "/jekyll-doc-theme/blog/2017/02/01/welcome-to-jekyll/"
+  "url": "/blog/2017/02/01/welcome-to-jekyll/"
   }
   
 ]

@@ -1,6 +1,6 @@
 ---
-title: Customization
-permalink: /docs/customization/
+title: LF5
+permalink: /docs/lf5/
 ---
 
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/).
