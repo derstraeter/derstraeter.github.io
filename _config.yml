@@ -22,6 +22,10 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+include:
+['.htaccess']
+['.htpasswd']
+
 exclude:
   - Gemfile
   - Gemfile.lock
