@@ -1,5 +1,5 @@
 ---
-title: LF5: Eine Webseite gestalten und realisieren
+title: lf5
 permalink: /docs/lf5/
 ---
 

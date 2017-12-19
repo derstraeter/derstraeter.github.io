@@ -1,5 +1,5 @@
 ---
-title: LF2: Medienprodukte typografisch gestalten
+title: lf2
 permalink: /docs/lf2/
 ---
 
