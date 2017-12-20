@@ -12,15 +12,7 @@
     
     
     {
-      "title": "LF1",
-      "url": "/docs/lf1/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF2",
+      "title": "lf2",
       "url": "/docs/lf2/"
 
     },
@@ -28,88 +20,8 @@
     
     
     {
-      "title": "LF3",
-      "url": "/docs/lf3/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF4",
-      "url": "/docs/lf4/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF5",
+      "title": "lf5",
       "url": "/docs/lf5/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF6",
-      "url": "/docs/lf6/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF7",
-      "url": "/docs/lf7/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF8",
-      "url": "/docs/lf8/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF9",
-      "url": "/docs/lf9/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF10",
-      "url": "/docs/lf10/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF11",
-      "url": "/docs/lf11/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF12",
-      "url": "/docs/lf12/"
-
-    },
-  
-    
-    
-    {
-      "title": "LF13",
-      "url": "/docs/lf13/"
 
     },
   
@@ -141,15 +53,5 @@
   
 
 
-  
-  {
-  "title": "Jekyll Doc Theme is published!",
-  "url": "/blog/2017/05/03/jekyll-doc-theme/"
-  },
-  
-  {
-  "title": "Welcome to Jekyll!",
-  "url": "/blog/2017/02/01/welcome-to-jekyll/"
-  }
   
 ]

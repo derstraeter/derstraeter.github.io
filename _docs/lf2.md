@@ -51,7 +51,7 @@ Oben rechts, da der Blick des Lesers als erstes in diese Ecke geleitet
 wird. Ausserdem würde eine linke Platzierung ein teilweises Abschnei
 den der Anzeige hervorrufen, was durch die Bindeart bedingt ist.
 
-![Aufgabe 2: Raster](lf2-bilder/aufgabe-2-raster.JPG)
+![Aufgabe 2: Raster](./img/lf2-bilder/aufgabe-2-raster.JPG)
 
 ### Aufgabe 3 (10 Punkte)
 
@@ -59,13 +59,13 @@ den der Anzeige hervorrufen, was durch die Bindeart bedingt ist.
 Sie die Buchstaben R und A in den Spalten jeweils dem zugehörigen K
 zu, indem Sie entsprechende Feld ankreuzen.**
 
-![Aufgabe 3: Tabelle](lf2-bilder/aufgabe-3-tabelle.JPG)
+![Aufgabe 3: Tabelle](./img/lf2-bilder/aufgabe-3-tabelle.JPG)
 
 ### Aufgabe 5 (10 Punkte)
 
 **Finden Sie die 8 Fehler im unten stehenden Text.**
 
-![Aufgabe 5: Textkorrektur](lf2-bilder/aufgabe-5-textkorrektur.JPG)
+![Aufgabe 5: Textkorrektur](./img/lf2-bilder/aufgabe-5-textkorrektur.JPG)
 
 ### Aufgabe 6 (10 Punkte)
 
@@ -75,7 +75,7 @@ Funktionen zu nutzen.**
 **a) Benennen und erläutern Sie die erweiterten typografischen Funktionen,
 die jeweils in den Abbildungen (1-4) verwendet wurden.**
 
-![Aufgabe 6: Typografische Funktionen](lf2-bilder/aufgabe-6-opentype.JPG)
+![Aufgabe 6: Typografische Funktionen](./img/lf2-bilder/aufgabe-6-opentype.JPG)
 
 Abb.1 Kapitälchen
 Abb.2 Ligaturen
@@ -96,7 +96,7 @@ Reserve von nahezu 1 Million Zeichen bietet.
 
 **a) Wofür stehen die Symbole?**
 
-![Aufgabe 7: Symbole](lf2-bilder/aufgabe-7-symbole.JPG)
+![Aufgabe 7: Symbole](./img/lf2-bilder/aufgabe-7-symbole.JPG)
 
 1. Linksbündig ausrichten
 2. Zentrieren
@@ -126,7 +126,7 @@ typografische Mängel. Nennen
 Sie Möglichkeiten, um die Lesbarkeit
 zu verbessern.**
 
-![Aufgabe 8: Mobile Ansicht](lf2-bilder/aufgabe-8-mobile.JPG)
+![Aufgabe 8: Mobile Ansicht](./img/lf2-bilder/aufgabe-8-mobile.JPG)
 
 Blocksatz, Schrift zu nah am Rand, Laufweite
 Verbesserungsvorschläge: Responsive Design, Textfelder nicht zu nah am
@@ -140,7 +140,7 @@ optimieren.**
 **a) Optimieren Sie das Kerning in der Abbildung mit den branchenüblichen
 Korrekturzeichen**
 
-![Aufgabe 9: Schriftzug](lf2-bilder/aufgabe-9-schriftzug.JPG)
+![Aufgabe 9: Schriftzug](./img/lf2-bilder/aufgabe-9-schriftzug.JPG)
 
 **b) Erläutern Sie die Begriffe Kerning und Dickte**
 
@@ -160,7 +160,7 @@ mm).
 
 **Welche Bedeutung hat das jeweilige Korrekturzeichen?**
 
-![Aufgabe 10: Korrekturzeichen](lf2-bilder/aufgabe-10-korrekturzeichen.JPG)
+![Aufgabe 10: Korrekturzeichen](./img/lf2-bilder/aufgabe-10-korrekturzeichen.JPG)
 
 ### Aufgabe 11 (10 Punkte)
 
@@ -169,7 +169,7 @@ mm).
 **a) Ordnen Sie dem abgebildeten Zeichenformat die entsprechende
 Schriftprobe zu. (4 Punkte)**
 
-![Aufgabe 11: Schriftprobe](lf2-bilder/aufgabe-11-schriftprobe.JPG)
+![Aufgabe 11: Schriftprobe](./img/lf2-bilder/aufgabe-11-schriftprobe.JPG)
 
 
 **b) Erklären Sie kurz die Begriffe Kerning, Laufweite und Ligatur.
@@ -193,13 +193,13 @@ Gestaltung.**
 ** a) Erstellen Sie für die beiden Schriften ein charakteristisches profil,
 indem Sie die einzelnen Merkmale in der Tagelle ankreuzen. (7 Punkte)**
 
-![Aufgabe 12: Schriftmerkmale](lf2-bilder/aufgabe-12-merkmale.JPG)
+![Aufgabe 12: Schriftmerkmale](./img/lf2-bilder/aufgabe-12-merkmale.JPG)
 
 **b) Für welche Produktarten eignet sich der Einsatz der oben dargestellten
 Schriftarten? Kreuzen Sie die sinnvollsten Einsatzm�glichkeiten
 an und begründen Sie ihre Entscheidung. (3 Punkte)**
 
-![Aufgabe 12: Schriftmerkmale](lf2-bilder/aufgabe-12-merkmale-2.JPG)
+![Aufgabe 12: Schriftmerkmale](./img/lf2-bilder/aufgabe-12-merkmale-2.JPG)
 
 ### Aufgabe 13 (10 Punkte)
 
@@ -209,7 +209,7 @@ Wortmarke und eine Website.**
 **Wählen Sie aus den drei Varianten eine geeignete Bild-/ Wortmarke und
 begründen Sie Ihre Auswahl anhand von drei Merkmalen.**
 
-![Aufgabe 13: Flying Star Schriftzüge](lf2-bilder/aufgabe-13-flying-star.JPG)
+![Aufgabe 13: Flying Star Schriftzüge](./img/lf2-bilder/aufgabe-13-flying-star.JPG)
 
 **Antwort:**
 
@@ -236,7 +236,7 @@ sind, auch der Zwischenschlag muss beachtet werden
 Fließtext ausgewählt werden. Entscheiden Sie sich für eine Schriftart aus den
 Textbeispielen eins und zwei und begründen Sie Ihre Wahl.**
 
-![Aufgabe 14: Mediengerechte Schriftart](lf2-bilder/aufgabe-14-schriftart.JPG)
+![Aufgabe 14: Mediengerechte Schriftart](./img/lf2-bilder/aufgabe-14-schriftart.JPG)
 
 **Antwort:**
 Version 2
@@ -251,13 +251,13 @@ Zudem sind Serifen schwer lesbar bei Fließtexten.
 **Welche der gezeigten Schriften verwenden Sie in der Werbung für folgende
 Auftraggeber? Begründen Sie Ihre Wahl.**
 
-![Aufgabe 15: Schriftmuster](lf2-bilder/aufgabe-15-schriftmuster.JPG)
+![Aufgabe 15: Schriftmuster](./img/lf2-bilder/aufgabe-15-schriftmuster.JPG)
 
 ### Aufgabe 16 (10 Punkte)
 
 **Ein Billardspieler hat die abgebildete Visitenkarte entworfen.**
 
-![Aufgabe 16: Visitenkarte](lf2-bilder/aufgabe-16-visitenkarte.JPG)
+![Aufgabe 16: Visitenkarte](./img/lf2-bilder/aufgabe-16-visitenkarte.JPG)
 
 ** a) Beurteilen sie den vorliegenden Entwurf unter drei gestalterischen und einem
 technischen Aspekt.**
@@ -283,13 +283,13 @@ Die Karte an sich wirkt sehr ungeordnet und unübersichtlich.
 
 **b) Skizzieren sie einen alternativen Entwurf. Erläutern Sie ihre Gestaltungsideen.**
 
-![Aufgabe 16: Visitenkarte Skizze](lf2-bilder/aufgabe-16-skizze.JPG)
+![Aufgabe 16: Visitenkarte Skizze](./img/lf2-bilder/aufgabe-16-skizze.JPG)
 
 ### Aufgabe 17 (10 Punkte)
 
 **Kennzeichnen Sie die mikrotypografischen Fehler in folgendem Text mit
 den richtigen Korrekturzeichen.**
 
-![Aufgabe 17: Korrektur](lf2-bilder/aufgabe-17-korrektur.JPG)
+![Aufgabe 17: Korrektur](./img/lf2-bilder/aufgabe-17-korrektur.JPG)
 
-![Aufgabe 17: Korrekturzeichen](lf2-bilder/aufgabe-17-korrekturzeichen.JPG)
+![Aufgabe 17: Korrekturzeichen](./img/lf2-bilder/aufgabe-17-korrekturzeichen.JPG)
